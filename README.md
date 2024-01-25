@@ -37,5 +37,3 @@ Para ejecutar el proyecto, sigue estos pasos:
 Este proyecto proporciona una visión detallada de la distribución de ventas de videojuegos en el año 2019. Las visualizaciones generadas a través de PowerBI ofrecen una comprensión clara de los patrones de ventas en diferentes segmentos y aspectos clave del mercado de videojuegos.
 
 ¡Disfruta explorando las visualizaciones y descubriendo información valiosa sobre el mercado de videojuegos en 2019!
-```
-Este formato markdown es comúnmente utilizado en los archivos README de proyectos en GitHub para proporcionar una estructura organizada y fácil de leer.
